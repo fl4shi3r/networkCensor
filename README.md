@@ -17,3 +17,6 @@ git clone https://github.com/fl4shi3r/networkCensor.git
 cd networkCensor
 python3 networkCensor.py
 ```
+
+
+## Note: All files are not updated.
